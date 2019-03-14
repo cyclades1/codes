@@ -1,20 +1,4 @@
-/*
-// Sample code to perform I/O:
 
-3
-4 2 10
-3
-1 2 3
-4
-5 2 9 6
-0
-cin >> name;                            // Reading input from STDIN
-cout << "Hi, " << name << ".\n";        // Writing output to STDOUT
-
-// Warning: Printing unwanted or ill-formatted data to output will cause the test cases to fail
-*/
-
-// Write your code here
 #include<bits/stdc++.h>
 using namespace std;
 
